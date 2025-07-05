@@ -1,5 +1,5 @@
 
-# Hotel Customer Analytics Dashboard (Silhouette Version)
+# Hotel Customer Analytics Dashboard
 
 This repository contains a Streamlit dashboard for hotel customer analytics, now enhanced with an Elbow **and** Silhouette diagnostic in the Clustering tab.
 
